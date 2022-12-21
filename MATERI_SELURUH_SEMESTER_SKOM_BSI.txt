@@ -1,0 +1,61 @@
+SEMESTER 1
+1 Pendidikan Pancasila
+2 Pengantar Teknologi Informasi & Komunikasi
+3 Entrepreneurship
+4 Logika & Algoritma
+5 Bahasa Inggris I
+6 Dasar Pemrograman (p)
+
+SEMESTER 2  
+1 Arsitektur Komputer
+2 Sistem Operasi
+3 Struktur Data
+4 Bahasa Inggris II
+5 Pemrograman Berbasis Objek (p)
+6 Matematika Diskrit
+
+SEMESTER 3    
+1 Jaringan Komputer
+2 Praktikum Jaringan Komputer (p)
+3 Statistika
+4 Mobile Programming (p)
+5 Sistem Basis Data
+6 Grafika Komputer
+7 Web Programming I (p)
+
+SEMESTER 4    
+1 Jaringan Komputer Lanjut
+2 Web Programming II (p)
+3 Pengolahan Citra
+4 Sistem Multimedia
+5 Mobile Commerce
+6 Character Building
+7 Interaksi Manusia Komputer
+
+SEMESTER 5
+1 Kecerdasan Buatan
+2 Etika Profesi Teknologi Informasi & Komunikasi
+3 Network Programming (p)
+4 Mobile Computing
+5 Pembelajaran Mesin
+6 Rekayasa Perangkat Lunak
+7 Internet Of Things
+
+SEMESTER 6    
+1 Mobile Game
+2 Manajemen Proyek Perangkat Lunak
+3 Layanan dan Aplikasi Web
+4 Penelitian Ilmu Komputer
+5 Data Mining
+6 Cloud Computing
+7 Keamanan dan Penjaminan Informasi
+
+SEMESTER 7    
+1 Bahasa Indonesia
+2 Pendidikan Kewarganegaraan
+3 Pendidikan Agama
+4 Kuliah Kerja Nyata
+5 Praktik Kerja Lapangan
+
+SEMESTER 8    
+1 Skripsi
